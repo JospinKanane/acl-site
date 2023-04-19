@@ -76,7 +76,7 @@ const Menu = () => {
         color="blue-gray"
         className="p-1 font-normal hover:underline"
       >
-        <a href="#" className="flex items-center">
+        <a href="https://dev-acl-news.pantheonsite.io/" className="flex items-center">
           Blog
         </a>
       </Typography>
