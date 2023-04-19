@@ -80,6 +80,16 @@ const Menu = () => {
           Blog
         </a>
       </Typography>
+      <Typography
+        as="li"
+        variant="small"
+        color="blue-gray"
+        className="p-1 font-normal hover:underline"
+      >
+        <a href="#" className="flex items-center">
+          Contact
+        </a>
+      </Typography>
     </ul>
   );
 
